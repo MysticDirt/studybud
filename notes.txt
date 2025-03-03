@@ -1,0 +1,14 @@
+Django notes:
+use python -m venv instead of virtualenv
+the name of the virtual environment is now env
+
+superuser: admin admin
+test user: tim timtimtim
+test user: eric ericeric
+test user: tom tomtomtom
+(database isnt uploaded but this file is)
+
+I did not add the final user changes because bad practice. We might as well have a one to one profile user and store the metadata there
+This was all from a Django tutorial: 
+https://www.youtube.com/watch?v=PtQiiknWUcI
+This was to learn Django for future projects. Stay tuned for those
